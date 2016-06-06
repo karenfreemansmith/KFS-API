@@ -1,0 +1,27 @@
+[
+  {
+    "url":"http://karenfreemansmith.com",
+    "name":"My Landing Page",
+    "description":"Basic information and links to other online profiles and projects."
+  },
+  {
+    "url":"http://freeman-smith.com",
+    "name":"The Sandbox",
+    "description":"My blog about learning to do web development."
+  },
+  {
+    "url":"http://epicodus.com",
+    "name":"Epicodus",
+    "description":"Website for the bootcamp I'll be attending to learn how to do web development."
+  },
+  {
+    "url":"https://github.com/karenfreemansmith",
+    "name":"GitHub",
+    "description":"My profile page in GitHub."
+  },
+  {
+    "url":"https://teamtreehouse.com/karenfreemansmith",
+    "name":"Team Treehouse",
+    "description":"My profile page at Team Treehouse."
+  }
+]
